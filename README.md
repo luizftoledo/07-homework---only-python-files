@@ -1,2 +1,2 @@
-# 07-homework---only-python-files
- 07 homework foundation luiz toledo
+# 07-homework
+More Pandas/big data analysis for Columbia Journalism School
